@@ -1,0 +1,16 @@
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.deps.json
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\Stratis.Bitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\NBitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\bin\Debug\netstandard2.0\Stratis.Bitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.csproj.CopyComplete
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.MemoryPool\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.MemoryPool.pdb

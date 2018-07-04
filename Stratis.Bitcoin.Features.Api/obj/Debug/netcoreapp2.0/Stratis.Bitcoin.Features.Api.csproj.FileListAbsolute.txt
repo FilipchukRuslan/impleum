@@ -1,0 +1,14 @@
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\bin\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.deps.json
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\bin\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\bin\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\bin\Debug\netcoreapp2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\bin\Debug\netcoreapp2.0\Stratis.Bitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\bin\Debug\netcoreapp2.0\Stratis.Bitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\bin\Debug\netcoreapp2.0\NBitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\obj\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\obj\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\obj\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\obj\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\obj\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.csproj.CopyComplete
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\obj\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Api\obj\Debug\netcoreapp2.0\Stratis.Bitcoin.Features.Api.pdb

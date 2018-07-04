@@ -1,0 +1,14 @@
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.deps.json
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\bin\Debug\netstandard2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\bin\Debug\netstandard2.0\Stratis.Bitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\bin\Debug\netstandard2.0\NBitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\bin\Debug\netstandard2.0\Stratis.Bitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.csproj.CopyComplete
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.Consensus\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.pdb

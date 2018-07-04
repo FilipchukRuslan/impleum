@@ -1,0 +1,12 @@
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\bin\Debug\netstandard2.0\Stratis.Bitcoin.deps.json
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\bin\Debug\netstandard2.0\Stratis.Bitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\bin\Debug\netstandard2.0\Stratis.Bitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\bin\Debug\netstandard2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\bin\Debug\netstandard2.0\NBitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\obj\Debug\netstandard2.0\Stratis.Bitcoin.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\obj\Debug\netstandard2.0\Stratis.Bitcoin.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\obj\Debug\netstandard2.0\Stratis.Bitcoin.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\obj\Debug\netstandard2.0\Stratis.Bitcoin.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\obj\Debug\netstandard2.0\Stratis.Bitcoin.csproj.CopyComplete
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\obj\Debug\netstandard2.0\Stratis.Bitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin\obj\Debug\netstandard2.0\Stratis.Bitcoin.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\bin\Debug\netstandard2.0\NBitcoin.deps.json
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\bin\Debug\netstandard2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\bin\Debug\netstandard2.0\NBitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\obj\Debug\netstandard2.0\NBitcoin.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\obj\Debug\netstandard2.0\NBitcoin.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\obj\Debug\netstandard2.0\NBitcoin.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\obj\Debug\netstandard2.0\NBitcoin.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\obj\Debug\netstandard2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\NBitcoin\obj\Debug\netstandard2.0\NBitcoin.pdb

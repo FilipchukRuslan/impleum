@@ -1,0 +1,16 @@
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.deps.json
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\Stratis.Bitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\NBitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.Consensus.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\bin\Debug\netstandard2.0\Stratis.Bitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.csproj.CopyComplete
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.RPC\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.RPC.pdb

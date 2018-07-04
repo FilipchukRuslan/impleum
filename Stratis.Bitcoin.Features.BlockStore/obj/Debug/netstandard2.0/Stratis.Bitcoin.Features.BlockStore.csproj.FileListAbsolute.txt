@@ -1,0 +1,14 @@
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.deps.json
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\bin\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\bin\Debug\netstandard2.0\NBitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\bin\Debug\netstandard2.0\Stratis.Bitcoin.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\bin\Debug\netstandard2.0\NBitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\bin\Debug\netstandard2.0\Stratis.Bitcoin.pdb
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.csproj.CopyComplete
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.dll
+C:\Users\Ruslan\Desktop\ImpleumGit\ImpleumBitcoinFullNode\src\Stratis.Bitcoin.Features.BlockStore\obj\Debug\netstandard2.0\Stratis.Bitcoin.Features.BlockStore.pdb
